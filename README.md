@@ -3,4 +3,4 @@ This is my first Git Repository.
 <br>
 I am Developer
 <br>
-Author- Yogesh S. Yelale Reddy
+Author- Yogesh Yelale Reddy
